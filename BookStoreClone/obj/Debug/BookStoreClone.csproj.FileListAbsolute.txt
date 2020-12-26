@@ -1,0 +1,985 @@
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\bin\Debug\QLNS.mdf
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\bin\Debug\QLNS_log.ldf
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\bin\Debug\ViewModel\QuanLyKhachHangViewModel.cs
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\bin\Debug\BookStoreClone.exe.config
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\bin\Debug\BookStoreClone.exe
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\bin\Debug\BookStoreClone.pdb
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\bin\Debug\EntityFramework.dll
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\bin\Debug\MaterialDesignColors.dll
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\bin\Debug\EntityFramework.xml
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\bin\Debug\MaterialDesignColors.pdb
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\BookStoreClone.csprojAssemblyReference.cache
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\View\HoaDonUC.g.cs
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\View\LoginWindow.g.cs
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\View\MainWindow.g.cs
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\View\NhapSachUC.g.cs
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\View\PhieuThuTienUC.g.cs
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\View\QuanLyDuLieuSach.g.cs
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\View\QuanLyHeThongVM.g.cs
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\View\QuanLyHoaDonUC.g.cs
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\View\QuanLyKhachHangUC.g.cs
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\View\QuanLyNhapSachUC.g.cs
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\View\SachUC.g.cs
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\View\TimKiemSachUC.g.cs
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\App.g.cs
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\BookStoreClone_Content.g.cs
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\BookStoreClone_MarkupCompile.cache
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\BookStoreClone_MarkupCompile.lref
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\App.baml
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\Resources\MainResource.baml
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\View\HoaDonUC.baml
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\View\LoginWindow.baml
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\View\MainWindow.baml
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\View\NhapSachUC.baml
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\View\PhieuThuTienUC.baml
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\View\QuanLyDuLieuSach.baml
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\View\QuanLyHeThongVM.baml
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\View\QuanLyHoaDonUC.baml
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\View\QuanLyKhachHangUC.baml
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\View\QuanLyNhapSachUC.baml
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\View\SachUC.baml
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\View\TimKiemSachUC.baml
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\BookStoreClone.g.resources
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\BookStoreClone.Properties.Resources.resources
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\BookStoreClone.csproj.GenerateResource.cache
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\BookStoreClone.csproj.CoreCompileInputs.cache
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\XamlC.stamp
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\BookStoreClone.csproj.CopyComplete
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\BookStoreClone.exe
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\BookStoreClone.pdb
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\View\BaoCaoUC.g.cs
+C:\Users\huutr\Desktop\QLNS-khang\BookStoreClone\obj\Debug\View\BaoCaoUC.baml
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\bin\Debug\QLNS.mdf
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\bin\Debug\QLNS_log.ldf
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\bin\Debug\ViewModel\QuanLyKhachHangViewModel.cs
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\bin\Debug\BookStoreClone.exe.config
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\bin\Debug\BookStoreClone.exe
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\bin\Debug\BookStoreClone.pdb
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\bin\Debug\EntityFramework.dll
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\bin\Debug\MaterialDesignColors.dll
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\bin\Debug\EntityFramework.xml
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\bin\Debug\MaterialDesignColors.pdb
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\BookStoreClone.csprojAssemblyReference.cache
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\View\BaoCaoUC.g.cs
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\View\HoaDonUC.g.cs
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\View\LoginWindow.g.cs
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\View\MainWindow.g.cs
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\View\NhapSachUC.g.cs
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\View\PhieuThuTienUC.g.cs
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\View\QuanLyDuLieuSach.g.cs
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\View\QuanLyHeThongVM.g.cs
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\View\QuanLyHoaDonUC.g.cs
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\View\QuanLyKhachHangUC.g.cs
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\View\QuanLyNhapSachUC.g.cs
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\View\SachUC.g.cs
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\View\TimKiemSachUC.g.cs
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\App.g.cs
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\BookStoreClone_Content.g.cs
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\BookStoreClone_MarkupCompile.cache
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\BookStoreClone_MarkupCompile.lref
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\App.baml
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\Resources\MainResource.baml
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\View\BaoCaoUC.baml
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\View\HoaDonUC.baml
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\View\LoginWindow.baml
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\View\MainWindow.baml
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\View\NhapSachUC.baml
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\View\PhieuThuTienUC.baml
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\View\QuanLyDuLieuSach.baml
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\View\QuanLyHeThongVM.baml
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\View\QuanLyHoaDonUC.baml
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\View\QuanLyKhachHangUC.baml
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\View\QuanLyNhapSachUC.baml
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\View\SachUC.baml
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\View\TimKiemSachUC.baml
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\BookStoreClone.g.resources
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\BookStoreClone.Properties.Resources.resources
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\BookStoreClone.csproj.GenerateResource.cache
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\BookStoreClone.csproj.CoreCompileInputs.cache
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\XamlC.stamp
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\BookStoreClone.csproj.CopyComplete
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\BookStoreClone.exe
+C:\Users\NguyễnVănLương\Desktop\qlns\QLNS\BookStoreClone\obj\Debug\BookStoreClone.pdb
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\bin\Debug\QLNS.mdf
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\bin\Debug\QLNS_log.ldf
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\bin\Debug\ViewModel\QuanLyKhachHangViewModel.cs
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\bin\Debug\BookStoreClone.exe.config
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\bin\Debug\BookStoreClone.exe
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\bin\Debug\BookStoreClone.pdb
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\bin\Debug\EntityFramework.dll
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\bin\Debug\EntityFramework.SqlServer.dll
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\bin\Debug\MaterialDesignColors.dll
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\bin\Debug\System.Windows.Interactivity.dll
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\bin\Debug\EntityFramework.xml
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\bin\Debug\EntityFramework.SqlServer.xml
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\bin\Debug\MaterialDesignColors.pdb
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\bin\Debug\System.Windows.Interactivity.xml
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\BookStoreClone.csprojAssemblyReference.cache
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\View\BaoCaoUC.g.cs
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\View\HoaDonUC.g.cs
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\View\LoginWindow.g.cs
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\View\MainWindow.g.cs
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\View\NhapSachUC.g.cs
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\View\PhieuThuTienUC.g.cs
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\View\QuanLyDuLieuSach.g.cs
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\View\QuanLyHeThongVM.g.cs
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\View\QuanLyHoaDonUC.g.cs
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\View\QuanLyKhachHangUC.g.cs
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\View\QuanLyNhapSachUC.g.cs
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\View\SachUC.g.cs
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\View\TimKiemSachUC.g.cs
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\App.g.cs
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\BookStoreClone_Content.g.cs
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\BookStoreClone_MarkupCompile.cache
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\BookStoreClone_MarkupCompile.lref
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\App.baml
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\Resources\MainResource.baml
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\View\BaoCaoUC.baml
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\View\HoaDonUC.baml
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\View\LoginWindow.baml
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\View\MainWindow.baml
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\View\NhapSachUC.baml
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\View\PhieuThuTienUC.baml
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\View\QuanLyDuLieuSach.baml
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\View\QuanLyHeThongVM.baml
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\View\QuanLyHoaDonUC.baml
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\View\QuanLyKhachHangUC.baml
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\View\QuanLyNhapSachUC.baml
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\View\SachUC.baml
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\View\TimKiemSachUC.baml
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\BookStoreClone.g.resources
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\BookStoreClone.Properties.Resources.resources
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\BookStoreClone.csproj.GenerateResource.cache
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\BookStoreClone.csproj.CoreCompileInputs.cache
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\XamlC.stamp
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\BookStoreClone.csproj.CopyComplete
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\BookStoreClone.exe
+E:\uit\Quản lí nhà sách\qlns\QLNS\BookStoreClone\obj\Debug\BookStoreClone.pdb
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\bin\Debug\QLNS.mdf
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\bin\Debug\QLNS_log.ldf
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\bin\Debug\ViewModel\QuanLyKhachHangViewModel.cs
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\bin\Debug\BookStoreClone.exe.config
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\bin\Debug\BookStoreClone.exe
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\bin\Debug\BookStoreClone.pdb
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\bin\Debug\EntityFramework.dll
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\bin\Debug\EntityFramework.SqlServer.dll
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\bin\Debug\MaterialDesignColors.dll
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\bin\Debug\System.Windows.Interactivity.dll
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\bin\Debug\EntityFramework.xml
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\bin\Debug\EntityFramework.SqlServer.xml
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\bin\Debug\MaterialDesignColors.pdb
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\bin\Debug\System.Windows.Interactivity.xml
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\BookStoreClone.csprojAssemblyReference.cache
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\View\BaoCaoUC.g.cs
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\View\HoaDonUC.g.cs
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\View\LoginWindow.g.cs
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\View\MainWindow.g.cs
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\View\NhapSachUC.g.cs
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\View\PhieuThuTienUC.g.cs
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\View\QuanLyDuLieuSach.g.cs
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\View\QuanLyHeThongVM.g.cs
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\View\QuanLyHoaDonUC.g.cs
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\View\QuanLyKhachHangUC.g.cs
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\View\QuanLyNhapSachUC.g.cs
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\View\SachUC.g.cs
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\View\TimKiemSachUC.g.cs
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\App.g.cs
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\BookStoreClone_Content.g.cs
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\BookStoreClone_MarkupCompile.cache
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\BookStoreClone_MarkupCompile.lref
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\App.baml
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\Resources\MainResource.baml
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\View\BaoCaoUC.baml
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\View\HoaDonUC.baml
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\View\LoginWindow.baml
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\View\MainWindow.baml
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\View\NhapSachUC.baml
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\View\PhieuThuTienUC.baml
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\View\QuanLyDuLieuSach.baml
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\View\QuanLyHeThongVM.baml
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\View\QuanLyHoaDonUC.baml
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\View\QuanLyKhachHangUC.baml
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\View\QuanLyNhapSachUC.baml
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\View\SachUC.baml
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\View\TimKiemSachUC.baml
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\BookStoreClone.g.resources
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\BookStoreClone.Properties.Resources.resources
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\BookStoreClone.csproj.GenerateResource.cache
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\BookStoreClone.csproj.CoreCompileInputs.cache
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\XamlC.stamp
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\BookStoreClone.csproj.CopyComplete
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\BookStoreClone.exe
+D:\UIT\QLNS_17_10\QLNS\BookStoreClone\obj\Debug\BookStoreClone.pdb
+D:\Git\QLNS\BookStoreClone\bin\Debug\QLNS.mdf
+D:\Git\QLNS\BookStoreClone\bin\Debug\QLNS_log.ldf
+D:\Git\QLNS\BookStoreClone\bin\Debug\ViewModel\QuanLyKhachHangViewModel.cs
+D:\Git\QLNS\BookStoreClone\bin\Debug\BookStoreClone.exe.config
+D:\Git\QLNS\BookStoreClone\bin\Debug\BookStoreClone.exe
+D:\Git\QLNS\BookStoreClone\bin\Debug\BookStoreClone.pdb
+D:\Git\QLNS\BookStoreClone\bin\Debug\EntityFramework.dll
+D:\Git\QLNS\BookStoreClone\bin\Debug\EntityFramework.SqlServer.dll
+D:\Git\QLNS\BookStoreClone\bin\Debug\MaterialDesignColors.dll
+D:\Git\QLNS\BookStoreClone\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Git\QLNS\BookStoreClone\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Git\QLNS\BookStoreClone\bin\Debug\System.Windows.Interactivity.dll
+D:\Git\QLNS\BookStoreClone\bin\Debug\EntityFramework.xml
+D:\Git\QLNS\BookStoreClone\bin\Debug\EntityFramework.SqlServer.xml
+D:\Git\QLNS\BookStoreClone\bin\Debug\MaterialDesignColors.pdb
+D:\Git\QLNS\BookStoreClone\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Git\QLNS\BookStoreClone\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Git\QLNS\BookStoreClone\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Git\QLNS\BookStoreClone\bin\Debug\System.Windows.Interactivity.xml
+D:\Git\QLNS\BookStoreClone\obj\Debug\BookStoreClone.csprojAssemblyReference.cache
+D:\Git\QLNS\BookStoreClone\obj\Debug\View\BaoCaoUC.g.cs
+D:\Git\QLNS\BookStoreClone\obj\Debug\View\HoaDonUC.g.cs
+D:\Git\QLNS\BookStoreClone\obj\Debug\View\LoginWindow.g.cs
+D:\Git\QLNS\BookStoreClone\obj\Debug\View\MainWindow.g.cs
+D:\Git\QLNS\BookStoreClone\obj\Debug\View\NhapSachUC.g.cs
+D:\Git\QLNS\BookStoreClone\obj\Debug\View\PhieuThuTienUC.g.cs
+D:\Git\QLNS\BookStoreClone\obj\Debug\View\QuanLyDuLieuSach.g.cs
+D:\Git\QLNS\BookStoreClone\obj\Debug\View\QuanLyHeThongVM.g.cs
+D:\Git\QLNS\BookStoreClone\obj\Debug\View\QuanLyHoaDonUC.g.cs
+D:\Git\QLNS\BookStoreClone\obj\Debug\View\QuanLyKhachHangUC.g.cs
+D:\Git\QLNS\BookStoreClone\obj\Debug\View\QuanLyNhapSachUC.g.cs
+D:\Git\QLNS\BookStoreClone\obj\Debug\View\SachUC.g.cs
+D:\Git\QLNS\BookStoreClone\obj\Debug\View\TimKiemSachUC.g.cs
+D:\Git\QLNS\BookStoreClone\obj\Debug\App.g.cs
+D:\Git\QLNS\BookStoreClone\obj\Debug\BookStoreClone_Content.g.cs
+D:\Git\QLNS\BookStoreClone\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Git\QLNS\BookStoreClone\obj\Debug\BookStoreClone_MarkupCompile.cache
+D:\Git\QLNS\BookStoreClone\obj\Debug\BookStoreClone_MarkupCompile.lref
+D:\Git\QLNS\BookStoreClone\obj\Debug\App.baml
+D:\Git\QLNS\BookStoreClone\obj\Debug\Resources\MainResource.baml
+D:\Git\QLNS\BookStoreClone\obj\Debug\View\BaoCaoUC.baml
+D:\Git\QLNS\BookStoreClone\obj\Debug\View\HoaDonUC.baml
+D:\Git\QLNS\BookStoreClone\obj\Debug\View\LoginWindow.baml
+D:\Git\QLNS\BookStoreClone\obj\Debug\View\MainWindow.baml
+D:\Git\QLNS\BookStoreClone\obj\Debug\View\NhapSachUC.baml
+D:\Git\QLNS\BookStoreClone\obj\Debug\View\PhieuThuTienUC.baml
+D:\Git\QLNS\BookStoreClone\obj\Debug\View\QuanLyDuLieuSach.baml
+D:\Git\QLNS\BookStoreClone\obj\Debug\View\QuanLyHeThongVM.baml
+D:\Git\QLNS\BookStoreClone\obj\Debug\View\QuanLyHoaDonUC.baml
+D:\Git\QLNS\BookStoreClone\obj\Debug\View\QuanLyKhachHangUC.baml
+D:\Git\QLNS\BookStoreClone\obj\Debug\View\QuanLyNhapSachUC.baml
+D:\Git\QLNS\BookStoreClone\obj\Debug\View\SachUC.baml
+D:\Git\QLNS\BookStoreClone\obj\Debug\View\TimKiemSachUC.baml
+D:\Git\QLNS\BookStoreClone\obj\Debug\BookStoreClone.g.resources
+D:\Git\QLNS\BookStoreClone\obj\Debug\BookStoreClone.Properties.Resources.resources
+D:\Git\QLNS\BookStoreClone\obj\Debug\BookStoreClone.csproj.GenerateResource.cache
+D:\Git\QLNS\BookStoreClone\obj\Debug\BookStoreClone.csproj.CoreCompileInputs.cache
+D:\Git\QLNS\BookStoreClone\obj\Debug\XamlC.stamp
+D:\Git\QLNS\BookStoreClone\obj\Debug\BookStoreClone.csproj.CopyComplete
+D:\Git\QLNS\BookStoreClone\obj\Debug\BookStoreClone.exe
+D:\Git\QLNS\BookStoreClone\obj\Debug\BookStoreClone.pdb
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\QLNS.mdf
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\QLNS_log.ldf
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\ViewModel\QuanLyKhachHangViewModel.cs
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\BookStoreClone.exe.config
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\BookStoreClone.exe
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\BookStoreClone.pdb
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\EntityFramework.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\EntityFramework.SqlServer.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\MaterialDesignColors.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Windows.Interactivity.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\EntityFramework.xml
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\EntityFramework.SqlServer.xml
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\MaterialDesignColors.pdb
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Windows.Interactivity.xml
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\View\BaoCaoUC.g.cs
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\View\LoginWindow.g.cs
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\View\MainWindow.g.cs
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\View\PhieuThuTienUC.g.cs
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\View\QuanLyDuLieuSach.g.cs
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\View\QuanLyHeThongVM.g.cs
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\View\QuanLyHoaDonUC.g.cs
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\View\QuanLyKhachHangUC.g.cs
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\View\QuanLyNhapSachUC.g.cs
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\View\SachUC.g.cs
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\View\TimKiemSachUC.g.cs
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\App.g.cs
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone_Content.g.cs
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone_MarkupCompile.cache
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone_MarkupCompile.lref
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\App.baml
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\Resources\MainResource.baml
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\View\BaoCaoUC.baml
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\View\LoginWindow.baml
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\View\MainWindow.baml
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\View\PhieuThuTienUC.baml
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\View\QuanLyDuLieuSach.baml
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\View\QuanLyHeThongVM.baml
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\View\QuanLyHoaDonUC.baml
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\View\QuanLyKhachHangUC.baml
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\View\QuanLyNhapSachUC.baml
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\View\SachUC.baml
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\View\TimKiemSachUC.baml
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone.g.resources
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone.Properties.Resources.resources
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone.csproj.GenerateResource.cache
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone.csproj.CoreCompileInputs.cache
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\XamlC.stamp
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone.csproj.CopyComplete
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone.exe
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone.pdb
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\netstandard.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.AppContext.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Collections.Concurrent.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Collections.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Collections.NonGeneric.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Collections.Specialized.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.ComponentModel.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.ComponentModel.Primitives.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Console.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Data.Common.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Diagnostics.Contracts.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Diagnostics.Debug.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Diagnostics.Process.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Diagnostics.Tools.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Diagnostics.Tracing.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Drawing.Primitives.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Dynamic.Runtime.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Globalization.Calendars.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Globalization.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Globalization.Extensions.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.IO.Compression.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.IO.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.IO.FileSystem.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.IO.IsolatedStorage.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.IO.Pipes.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Linq.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Linq.Expressions.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Linq.Parallel.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Linq.Queryable.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Net.Http.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Net.NameResolution.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Net.NetworkInformation.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Net.Ping.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Net.Primitives.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Net.Requests.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Net.Security.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Net.Sockets.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Net.WebSockets.Client.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Net.WebSockets.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.ObjectModel.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Reflection.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Reflection.Extensions.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Reflection.Primitives.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Resources.Reader.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Resources.ResourceManager.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Resources.Writer.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Runtime.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Runtime.Extensions.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Runtime.Handles.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Runtime.InteropServices.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Runtime.Numerics.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Security.Claims.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Security.Principal.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Security.SecureString.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Text.Encoding.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Text.RegularExpressions.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Threading.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Threading.Overlapped.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Threading.Tasks.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Threading.Thread.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Threading.ThreadPool.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Threading.Timer.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.ValueTuple.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Xml.ReaderWriter.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Xml.XDocument.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Xml.XmlDocument.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Xml.XmlSerializer.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Xml.XPath.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\Syncfusion.Core.XForms.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\Syncfusion.Licensing.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\Syncfusion.SfChart.XForms.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\Xamarin.Forms.Core.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\Xamarin.Forms.Platform.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\Syncfusion.Core.XForms.xml
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\Syncfusion.SfChart.XForms.xml
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\Xamarin.Forms.Core.pdb
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\Xamarin.Forms.Core.xml
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone.exe.config
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\Syncfusion.SfChart.WPF.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\Syncfusion.SfChart.WPF.xml
+D:\QLNS-master\QLNS-master\BookStoreClone\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+D:\QLNS-master\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone.csprojAssemblyReference.cache
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\QLNS.mdf
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\QLNS_log.ldf
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\ViewModel\QuanLyKhachHangViewModel.cs
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\BookStoreClone.exe.config
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\BookStoreClone.exe
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\BookStoreClone.pdb
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\netstandard.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.AppContext.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Collections.Concurrent.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Collections.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Collections.NonGeneric.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Collections.Specialized.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.ComponentModel.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.ComponentModel.Primitives.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Console.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Data.Common.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Diagnostics.Contracts.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Diagnostics.Debug.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Diagnostics.Process.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Diagnostics.Tools.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Diagnostics.Tracing.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Drawing.Primitives.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Dynamic.Runtime.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Globalization.Calendars.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Globalization.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Globalization.Extensions.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.IO.Compression.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.IO.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.IO.FileSystem.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.IO.IsolatedStorage.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.IO.Pipes.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Linq.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Linq.Expressions.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Linq.Parallel.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Linq.Queryable.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Net.Http.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Net.NameResolution.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Net.NetworkInformation.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Net.Ping.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Net.Primitives.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Net.Requests.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Net.Security.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Net.Sockets.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Net.WebSockets.Client.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Net.WebSockets.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.ObjectModel.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Reflection.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Reflection.Extensions.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Reflection.Primitives.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Resources.Reader.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Resources.ResourceManager.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Resources.Writer.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Runtime.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Runtime.Extensions.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Runtime.Handles.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Runtime.InteropServices.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Runtime.Numerics.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Security.Claims.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Security.Principal.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Security.SecureString.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Text.Encoding.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Text.RegularExpressions.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Threading.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Threading.Overlapped.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Threading.Tasks.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Threading.Thread.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Threading.ThreadPool.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Threading.Timer.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.ValueTuple.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Xml.ReaderWriter.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Xml.XDocument.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Xml.XmlDocument.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Xml.XmlSerializer.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Xml.XPath.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\EntityFramework.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\EntityFramework.SqlServer.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\MaterialDesignColors.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\Syncfusion.Core.XForms.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\Syncfusion.Licensing.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\Syncfusion.SfChart.WPF.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\Syncfusion.SfChart.XForms.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Windows.Interactivity.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\Xamarin.Forms.Core.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\Xamarin.Forms.Platform.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\EntityFramework.xml
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\EntityFramework.SqlServer.xml
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\MaterialDesignColors.pdb
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\Syncfusion.Core.XForms.xml
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\Syncfusion.SfChart.WPF.xml
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\Syncfusion.SfChart.XForms.xml
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Windows.Interactivity.xml
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\Xamarin.Forms.Core.pdb
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\Xamarin.Forms.Core.xml
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone.csprojAssemblyReference.cache
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone.exe.config
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\BaoCaoUC.g.cs
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\LoginWindow.g.cs
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\MainWindow.g.cs
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\PhieuThuTienUC.g.cs
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\QuanLyDuLieuSach.g.cs
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\QuanLyHeThongVM.g.cs
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\QuanLyHoaDonUC.g.cs
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\QuanLyKhachHangUC.g.cs
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\QuanLyNhapSachUC.g.cs
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\SachUC.g.cs
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\TimKiemSachUC.g.cs
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\App.g.cs
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone_Content.g.cs
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone_MarkupCompile.cache
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone_MarkupCompile.lref
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\App.baml
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\Resources\MainResource.baml
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\BaoCaoUC.baml
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\LoginWindow.baml
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\MainWindow.baml
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\PhieuThuTienUC.baml
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\QuanLyDuLieuSach.baml
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\QuanLyHeThongVM.baml
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\QuanLyHoaDonUC.baml
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\QuanLyKhachHangUC.baml
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\QuanLyNhapSachUC.baml
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\SachUC.baml
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\TimKiemSachUC.baml
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone.g.resources
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone.Properties.Resources.resources
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone.csproj.GenerateResource.cache
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone.csproj.CoreCompileInputs.cache
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\XamlC.stamp
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone.csproj.CopyComplete
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone.exe
+D:\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone.pdb
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\QLNS.mdf
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\QLNS_log.ldf
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\ViewModel\QuanLyKhachHangViewModel.cs
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\BookStoreClone.exe.config
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\BookStoreClone.exe
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\BookStoreClone.pdb
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\netstandard.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.AppContext.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Collections.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Collections.Specialized.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.ComponentModel.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Console.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Data.Common.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Globalization.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.IO.Compression.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.IO.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.IO.FileSystem.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.IO.Pipes.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Linq.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Linq.Expressions.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Linq.Parallel.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Linq.Queryable.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Net.Http.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Net.NameResolution.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Net.Ping.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Net.Primitives.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Net.Requests.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Net.Security.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Net.Sockets.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Net.WebSockets.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.ObjectModel.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Reflection.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Resources.Reader.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Resources.Writer.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Runtime.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Runtime.Handles.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Security.Claims.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Security.Principal.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Security.SecureString.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Text.Encoding.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Threading.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Threading.Tasks.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Threading.Thread.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Threading.Timer.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.ValueTuple.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Xml.XDocument.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Xml.XPath.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\MaterialDesignColors.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\Syncfusion.Core.XForms.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\Syncfusion.SfChart.WPF.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\Syncfusion.SfChart.XForms.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\Syncfusion.Core.XForms.xml
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\Syncfusion.SfChart.WPF.xml
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\Syncfusion.SfChart.XForms.xml
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone.exe.config
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\BaoCaoUC.g.cs
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\LoginWindow.g.cs
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\MainWindow.g.cs
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\PhieuThuTienUC.g.cs
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\QuanLyDuLieuSach.g.cs
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\QuanLyHeThongVM.g.cs
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\QuanLyHoaDonUC.g.cs
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\QuanLyKhachHangUC.g.cs
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\QuanLyNhapSachUC.g.cs
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\SachUC.g.cs
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\TimKiemSachUC.g.cs
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\App.g.cs
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone_Content.g.cs
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone_MarkupCompile.cache
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone_MarkupCompile.lref
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\App.baml
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\Resources\MainResource.baml
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\BaoCaoUC.baml
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\LoginWindow.baml
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\MainWindow.baml
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\PhieuThuTienUC.baml
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\QuanLyDuLieuSach.baml
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\QuanLyHeThongVM.baml
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\QuanLyHoaDonUC.baml
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\QuanLyKhachHangUC.baml
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\QuanLyNhapSachUC.baml
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\SachUC.baml
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\View\TimKiemSachUC.baml
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone.g.resources
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone.Properties.Resources.resources
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\XamlC.stamp
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone.csproj.CopyComplete
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone.exe
+C:\Users\ASUS\Desktop\QLNS-master - Copy\QLNS-master\BookStoreClone\obj\Debug\BookStoreClone.pdb
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\QLNS.mdf
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\QLNS_log.ldf
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\ViewModel\QuanLyKhachHangViewModel.cs
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\BookStoreClone.exe.config
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\BookStoreClone.exe
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\BookStoreClone.pdb
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\netstandard.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.AppContext.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Collections.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Collections.Specialized.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.ComponentModel.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Console.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Data.Common.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Globalization.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.IO.Compression.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.IO.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.IO.FileSystem.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.IO.Pipes.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Linq.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Linq.Expressions.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Linq.Parallel.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Linq.Queryable.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Net.Http.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Net.NameResolution.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Net.Ping.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Net.Primitives.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Net.Requests.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Net.Security.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Net.Sockets.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Net.WebSockets.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.ObjectModel.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Reflection.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Resources.Reader.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Resources.Writer.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Runtime.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Runtime.Handles.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Security.Claims.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Security.Principal.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Security.SecureString.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Text.Encoding.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Threading.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Threading.Tasks.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Threading.Thread.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Threading.Timer.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.ValueTuple.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Xml.XDocument.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Xml.XPath.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\MaterialDesignColors.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\Syncfusion.Core.XForms.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\Syncfusion.SfChart.WPF.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\Syncfusion.SfChart.XForms.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\Syncfusion.Core.XForms.xml
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\Syncfusion.SfChart.WPF.xml
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\Syncfusion.SfChart.XForms.xml
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\BookStoreClone.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\BookStoreClone.exe.config
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\View\BaoCaoUC.g.cs
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\View\LoginWindow.g.cs
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\View\MainWindow.g.cs
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\View\PhieuThuTienUC.g.cs
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\View\QuanLyDuLieuSach.g.cs
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\View\QuanLyHeThongVM.g.cs
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\View\QuanLyHoaDonUC.g.cs
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\View\QuanLyKhachHangUC.g.cs
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\View\QuanLyNhapSachUC.g.cs
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\View\SachUC.g.cs
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\View\TimKiemSachUC.g.cs
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\App.g.cs
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\BookStoreClone_Content.g.cs
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\BookStoreClone_MarkupCompile.cache
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\BookStoreClone_MarkupCompile.lref
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\App.baml
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\Resources\MainResource.baml
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\View\BaoCaoUC.baml
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\View\LoginWindow.baml
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\View\MainWindow.baml
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\View\PhieuThuTienUC.baml
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\View\QuanLyDuLieuSach.baml
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\View\QuanLyHeThongVM.baml
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\View\QuanLyHoaDonUC.baml
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\View\QuanLyKhachHangUC.baml
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\View\QuanLyNhapSachUC.baml
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\View\SachUC.baml
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\View\TimKiemSachUC.baml
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\BookStoreClone.g.resources
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\BookStoreClone.Properties.Resources.resources
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\BookStoreClone.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\BookStoreClone.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\XamlC.stamp
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\BookStoreClone.csproj.CopyComplete
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\BookStoreClone.exe
+C:\Users\ASUS\Desktop\ooad\BookStoreClone\obj\Debug\BookStoreClone.pdb
